@@ -1,4 +1,4 @@
-# Sports Betting Analytics Hub
+# ARBBETS - Live Arbitrage Betting
 
 A collection of in-depth articles on sports betting analytics, prop betting strategies, and statistical analysis across NBA, MLB, and NCAAB.
 
